@@ -1,0 +1,35 @@
+.primero{
+    position: relative;
+    border: 3px;
+
+}
+.segundo{
+    width: 300px;
+    height: 200px;
+    box-shadow: 7px 13px 37px rgb(249, 1, 1);
+    padding: 3px;
+    background-color: black;
+}
+
+.tercero{
+    background-color: aqua;
+    width: 900px;
+    height: 900px;
+    padding: 10px;
+}
+.cuarto{
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+    box-shadow: 7px 13px 37px rgb(249, 1, 1);
+    padding: 3px;
+    background-color: black;  
+}
+.quinto{
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+    box-shadow: 7px 13px 37px rgb(249, 1, 1);
+    padding: 3px;
+    background-color: black;
+}
