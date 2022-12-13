@@ -1,0 +1,133 @@
+.segundo{
+    width: 300px;
+    height: 200px;
+    padding: 3px;
+    background-color: black;
+}
+
+.tercero{
+    position: relative;
+    background: url(./img/10.webp);
+    width:1320px;
+    height: 650px;
+    padding: 10px;
+}
+.cuarto{
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+    padding: 3px;
+    background-color: black; 
+   color: rgb(255, 255, 255); 
+   font-family: 'Arial';
+   font-size:4mm;
+   top: 0px;
+}
+.quinto{
+    width: 500px;
+    height: 420px;
+    margin-top: 10px;
+    padding: 3px;
+    background-color: black;
+    position:absolute;
+    left: 25%;
+    top: 0px;
+}
+.sexto{
+    font-family: 'Arial',;
+    background-color: rgb(6, 251, 83);
+    box-shadow: 7px 13px 37px rgb(249, 1, 1);
+    padding: 3px;
+    margin: 10px;
+    width: 170px;
+        
+}
+body{
+    background-color: black;
+    background: url(./img/10.webp);
+}
+.septimo{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    padding: 3px;
+    background-color: black;
+    position:absolute;
+    left: 65%;
+    top: 0px;  
+}
+.octavo{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    padding: 3px;
+    background-color: black;
+    position:absolute;
+    left: 83%;
+    top: 0px;   
+}
+.noveno{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    padding: 3px;
+    background-color: black;
+    position:absolute;
+    left: 65%;
+    top: 220px;  
+}
+
+.decimo{
+    width: 200px;
+    height: 420px;
+    margin-top: 10px;
+    padding: 3px;
+    background-color: black;
+    position:absolute;
+    left: 83%;
+    top: 220px;  
+    color: rgb(255, 255, 255);
+    font-family: 'Arial';
+    font-size:4mm;
+}
+.once{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    padding: 3px;
+    background-color: black;
+    position:absolute;
+    top: 440px; 
+}
+.doce{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    padding: 3px;
+    background-color: black;
+    position:absolute;
+    top: 440px; 
+    left: 65%;
+}
+.trece{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    padding: 3px;
+    background-color: black;
+    position:absolute;
+    top: 440px; 
+    left: 47.5%;
+}
+.catorce{    
+    width: 380px;
+    height: 200px;
+    padding: 3px;
+    background-color: black;
+    position:absolute;
+    top: 435px; 
+    left: 17.5%;
+    color: rgb(255, 255, 255);
+    font-family: 'Arial';
+    font-size:4mm;
+}
