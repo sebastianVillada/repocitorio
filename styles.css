@@ -1,0 +1,106 @@
+#primera{
+    background: url(../img/1.jpeg);
+    height: 250px ;
+    width:600px ;
+}
+#segunda{
+    background: url(../img/2.jpeg);
+    height: 250px ;
+    width:600px ;
+}
+
+#tercera{
+    background: url(../img/3.jpeg);
+    height: 518px ;
+    width:600px ;
+    position: relative;
+    bottom: 34.5em;
+    left:39em;
+    
+}
+
+#cuarta{
+    background: url(../img/4.jpeg);
+    height: 250px ;
+    width:300px ;
+    position: relative;
+    bottom: 69.2em;
+    left:78em;
+    
+}
+
+#quinta{
+    background: url(../img/6.jpg);
+    height: 250px ;
+    width:300px ;
+    position: relative;
+    bottom: 70.2em;
+    left:78em;
+    
+}
+
+#septima{
+    background: url(../img/5.png);
+    height: 250px ;
+    width:300px ;
+    position: relative;
+    bottom: 102.6em;
+    left:98em;
+    
+}
+
+#octava{
+    background-color: rgb(93, 156, 188);
+    height: 670px ;
+    width:300px ;
+    position: relative;
+    bottom: 102.6em;
+    left:98em;
+   margin-top: 19px;
+   font-family: 'Arial';
+   color: antiquewhite;
+   
+    
+}
+
+#nobena{
+    background: url(../img/7.jpeg);
+    height: 400px ;
+    width:300px ;
+    position: relative;
+    bottom: 127.6em;
+}
+
+#decima{
+    background: url(../img/12.jpeg);
+    height: 400px ;
+    width:600px ;
+    position: relative;
+    bottom: 152.6em;
+    left:20em;
+}
+
+#once{
+    background: url(../img/9.jpg);
+    height: 400px ;
+    width:289px ;
+    position: relative;
+    bottom: 177.6em;
+    left:58.5em;
+}
+
+#doce{
+    background: url(../img/7.jpeg);
+    height: 400px ;
+    width:297px ;
+    position: relative;
+    bottom: 202.6em;
+    left:78em;
+}
+body{
+    background-color: rgb(48, 104, 102);
+}
+
+
+
+
